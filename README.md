@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahecha
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on whatever what can help me to learn 
 - 📫 How to reach me ...
